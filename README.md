@@ -154,13 +154,12 @@ Final validation confirmed that the SQL and Power BI results reconcile with the 
 
 ## Repository Structure
 
-```text
-01_Data_Input
-02_SQL
-03_Power_BI
-04_DAX
-05_Dashboard
-06_Documentation
+- 01_Data_Input
+- 02_SQL
+- 03_Power_BI
+- 04_DAX
+- 05_Dashboard
+- 06_Documentation
 
 ## Project Outcome
 
